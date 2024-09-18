@@ -85,6 +85,7 @@
   <ItemGroup>
     <Content Include="recursos\descarga %285%29.jpeg" />
     <Content Include="recursos\descarga %286%29.jpeg" />
+    <Content Include="recursos\pixelcut-export__4_-removebg-preview %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
